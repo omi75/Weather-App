@@ -4,7 +4,7 @@ It's a website that generate password randomly as per users password length
 
 <br>
 
-## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://app.netlify.com/sites/onkar-weather-app/configuration/general">**Visit Now** 🚀</a>
 
 <br>
 
@@ -19,3 +19,7 @@ It's a website that generate password randomly as per users password length
 ## 📬 Connect With Me
 
 - **LinkedIn** - [Onkar Mahindrakar](https://www.linkedin.com/in/onkar-mahindrakar-66187422b/)
+
+## 📌 Acknowledgments
+
+- Course Instructor - [Love Babbar-CodeHelp](https://www.linkedin.com/in/love-babbar-38ab2887/)

@@ -4,7 +4,7 @@ It's a website that generate password randomly as per users password length
 
 <br>
 
-## 📌 **Live Site URL:** <a href="https://app.netlify.com/sites/onkar-weather-app/configuration/general">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://onkar-weather-app.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
